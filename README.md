@@ -1,5 +1,10 @@
 # LunchTray
 
+Advanced use cases of app architecture are implemented in this app. 
+
+- Shared view model across fragments in an activity is implemented. 
+- Navigation component in android studio is used efficiently to navigate between destinations within the app. 
+
 ![lunch_tray](https://user-images.githubusercontent.com/56432777/170812622-3a8f0afc-4e8c-4558-a3f5-1715fb2b552c.jpg)
 ![1](https://user-images.githubusercontent.com/56432777/170812626-1f6e6058-4151-413c-acd4-4b85315af647.jpg)
 ![2](https://user-images.githubusercontent.com/56432777/170812629-442d7f4d-9e8f-4e59-b79e-b8ced567fe6b.jpg)
